@@ -1,5 +1,6 @@
+// A program which show's your variable stores even/odd number.
 import java.util.Scanner;
-class evenodd{
+class task2{
 public static void main(String[] args) {
 Scanner obj=new Scanner(System.in);
 int a;
