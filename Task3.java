@@ -1,5 +1,6 @@
+// Create a program using every single operator we have learned till now.
 import java.util.Scanner;
-  class operators{
+  class Task3.java{
 public static void main(String[] args) {
 Scanner obj=new Scanner(System.in);int a,b,c;
 System.out.println("Arithmatic and assigment Operators");
