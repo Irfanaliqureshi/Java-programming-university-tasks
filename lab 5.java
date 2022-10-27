@@ -54,17 +54,6 @@ class lab5
    }
   }
  }
-/*   String arr[][] =new String[5][2];
-   int i,j;
-   for (i=0;i<5;i++)
-   {
-   	for (j=0;j<1;j++)
-   	{ 
-   	System.out.println("Enter email ");
-   	arr[i][j]=in.nextLine();
-   		System.out.println("Enter password ");
-   	arr[i][j+1]=in.nextLine();
-  }
- } */
+}
   
  
