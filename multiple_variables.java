@@ -1,6 +1,6 @@
 /* Create multiple variables of every single data type
  and print them to the user with their names. */
-class Task1{
+class multiple_variables{
 public static void main(String[] args){
 int a=1,b=2,c=3,d=4;
 System.out.println( "INTEGER VARIABLES");
