@@ -1,6 +1,6 @@
 // Create a program in which user is asked for marks in a respected way (Matriculation, Intermediate and Test result) where output would be the CPN.
 import java.util.*;
-class Task4 {
+class cpn_calculator{
  public  static void main(String[] args) {
  Scanner obj=new Scanner(System.in);
 double matric,enter,test;
